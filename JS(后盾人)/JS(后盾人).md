@@ -118,3 +118,21 @@ x=:${x}
 
 ## 
 
+## 10.类型转换使用技巧
+
+字符串转化为数值
+
+![image-20210524233433676](C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20210524233433676.png)
+
+数值转化为字符串
+
+![image-20210524233413261](C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20210524233413261.png)
+
+字符串转化为数组
+
+![image-20210524233739748](C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20210524233739748.png)
+
+数组转为字符串
+
+![image-20210524233823084](C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20210524233823084.png)
+
